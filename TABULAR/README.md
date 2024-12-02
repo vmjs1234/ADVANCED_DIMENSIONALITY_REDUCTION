@@ -17,7 +17,7 @@ This directory contains implementations of dimensionality reduction techniques s
 - Comparative analysis of different methods
 
 ## Techniques Covered
-- Principal Component Analysis (PCA)
+- Various Principal Component Analysis (PCA)
 - t-SNE (t-Distributed Stochastic Neighbor Embedding)
 - UMAP (Uniform Manifold Approximation and Projection)
 - Feature Selection Methods
