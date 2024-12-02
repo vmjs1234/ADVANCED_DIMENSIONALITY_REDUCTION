@@ -16,7 +16,7 @@ This directory focuses on dimensionality reduction techniques specifically tailo
 - Practical examples with real image datasets
 
 ## Techniques Covered
-- Principal Component Analysis (PCA) for images
+- Various Principal Component Analysis (PCA) for images
 - Autoencoders for image compression
 - t-SNE visualization for high-dimensional image data
 - Feature extraction and selection methods
